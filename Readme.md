@@ -35,5 +35,5 @@ Each phase consists of the following steps:
         - Categorical - Categorical Analysis
     - Correlations
 
-# Remarks
+# Results
 Insights drawn from the analysis are elaborated in the file Presentation.pdf
