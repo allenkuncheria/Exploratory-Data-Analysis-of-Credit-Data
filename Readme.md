@@ -18,22 +18,22 @@ Analysis is done in 2 phases:
 The phases consist of the following steps:
 1. Data Loading & Inspection
 2. Data Cleaning
-    2.1 Checking and ﬁxing header and footer rows
-    2.2 Fixing missing values
-    2.3 Removing duplicates
-    2.4 Validating and standardising data
-    2.5 Binning of continuous variables
+    2.1. Checking and ﬁxing header and footer rows
+    2.2. Fixing missing values
+    2.3. Removing duplicates
+    2.4. Validating and standardising data
+    2.5. Binning of continuous variables
 3. Data Merging (in case of previous_application.csv only)
 4. Data Analysis
-    4.1 Analysis of Outliers
-    4.2 Segmentation by the variable TARGET
-    4.3 Univariate Analysis of Select Categorical Variables
-    4.4 Univariate Analysis of Select Numeric Variables
-    4.5 Bivariate & Multivariate Analysis
-        4.5.1 Numeric - Numeric Analysis
-        4.5.2 Numeric - Categorical Analysis
-        4.5.3 Categorical - Categorical Analysis
-    4.6 Correlations
+    4.1. Analysis of Outliers
+    4.2. Segmentation by the variable TARGET
+    4.3. Univariate Analysis of Select Categorical Variables
+    4.4. Univariate Analysis of Select Numeric Variables
+    4.5. Bivariate & Multivariate Analysis
+        4.5.1. Numeric - Numeric Analysis
+        4.5.2. Numeric - Categorical Analysis
+        4.5.3. Categorical - Categorical Analysis
+    4.6. Correlations
 
 ## Insights
 Insights drawn from the analysis are presented in the file Presentation.pdf
