@@ -15,7 +15,7 @@ Analysis is done in 2 phases:
 1. Inspection, cleaning and analysis of application_data.csv
 2. Inspection and cleaning of previous_application.csv followed by merging with application_data.csv and subsequent analysis
 
-The phases consist of the following steps:
+Each phase consists of the following steps:
 1. Data Loading & Inspection
 2. Data Cleaning
     - Checking and ﬁxing header and footer rows
@@ -36,4 +36,4 @@ The phases consist of the following steps:
     - Correlations
 
 ## Insights
-Insights drawn from the analysis are presented in the file Presentation.pdf
+Insights drawn from the analysis are elaborated in the file Presentation.pdf
